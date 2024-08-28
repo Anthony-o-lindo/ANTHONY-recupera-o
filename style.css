@@ -1,0 +1,15 @@
+:root{
+
+    --cor-de-fonte:red;
+    --cor-do-fundo:black;
+    --cor-do-cabeçalho:white;
+    --cor-fundo-cabeçalho:silver;
+}
+body{
+    color:var(--cor-de-fonte);
+    background-color:var(--cor-do-fundo);
+}
+header{
+    color:var(--cor-do-cabeçalho);
+    background-color:var(--cor-fundo-cabeçalho);
+}
